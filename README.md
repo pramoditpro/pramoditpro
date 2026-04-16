@@ -13,7 +13,7 @@ I am a seasoned technology leader with two decades of experience in building sca
 ### 🛠 Tech Stack
 * **Backend:** Java (up to v25), Spring Boot, Microservices, MongoDB, SQL.
 * **Search & Data:** Elasticsearch, OpenSearch, RAG Pipelines.
-* **AI/ML:** Generative AI, LLM Orchestration, AWS AI (Practitioner in progress).
+* **AI/ML:** Generative AI, SpringAI, LLM Orchestration, AWS AI (Practitioner in progress).
 * **Infrastructure:** AWS, Spring Cache, Docker, Jenkins/TeamCity.
 
 ### 🌱 Professional Certifications (In Progress)
